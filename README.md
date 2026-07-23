@@ -1,4 +1,4 @@
-# All Media Downloader API
+# Media Downloader API
 
 A Python FastAPI service that extracts direct video links, captions and metadata
 from TikTok, Instagram and Facebook. The service is used both as a public web tool
@@ -129,9 +129,4 @@ memory usage, download counters and recent activity.
 
 ## Developer
 
-Md. Mainul Islam
-CODEX-M41NUL
-
-GitHub: https://github.com/M41NUL
-Telegram: t.me/mdmainulislaminfo
-Email: devmainulislam@gmail.com
+Email: help@sayaproject.org
